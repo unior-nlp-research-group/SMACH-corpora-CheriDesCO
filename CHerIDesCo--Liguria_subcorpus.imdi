@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-12-18"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Liguria_subcorpus</Name>
+                <Title>CHerIDesCo--Liguria_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Liguria</Description>
+        <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Liguria_subcorpus/Liguria_015_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

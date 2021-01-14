@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-01"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Marche_subcorpus</Name>
+                <Title>CHerIDesCo--Marche_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Marche</Description>
+        <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_025_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_026_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_027_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_028_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_029_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_030_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Marche_subcorpus/Marche_031_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

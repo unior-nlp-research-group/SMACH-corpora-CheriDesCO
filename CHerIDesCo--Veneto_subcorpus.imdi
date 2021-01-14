@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Veneto_subcorpus</Name>
+                <Title>CHerIDesCo--Veneto_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Veneto</Description>
+        <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Veneto_subcorpus/Veneto_019_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-12-18"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--EmiliaRomagna_subcorpus</Name>
+                <Title>CHerIDesCo--EmiliaRomagna_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Emilia-Romagna</Description>
+        <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_001_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_002_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_025_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_026_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_027_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_028_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_029_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_030_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_031_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_032_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_033_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_034_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_035_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_036_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_037_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_038_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_039_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_040_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_041_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--EmiliaRomagna_subcorpus/EmiliaRomagna_042_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

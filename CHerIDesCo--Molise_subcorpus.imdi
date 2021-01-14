@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-11-06"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Molise_subcorpus</Name>
+                <Title>CHerIDesCo--Molise_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Molise</Description>
+        <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_014_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Molise_subcorpus/Molise_014_03.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Piemonte_subcorpus</Name>
+                <Title>CHerIDesCo--Piemonte_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Piemonte</Description>
+        <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Piemonte_subcorpus/Piemonte_022_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-11-06"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Calabria_subcorpus</Name>
+                <Title>CHerIDesCo--Calabria_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Calabria</Description>
+        <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_020_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_023_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_024_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Calabria_subcorpus/Calabria_025_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Umbria_subcorpus</Name>
+                <Title>CHerIDesCo--Umbria_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Umbria</Description>
+        <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Umbria_subcorpus/Umbria_014_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

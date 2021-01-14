@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-12-23"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Lombardia_subcorpus</Name>
+                <Title>CHerIDesCo--Lombardia_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Lombardia</Description>
+        <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_025_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Lombardia_subcorpus/Lombardia_026_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

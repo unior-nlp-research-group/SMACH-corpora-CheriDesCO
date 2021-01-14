@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Sardegna_subcorpus</Name>
+                <Title>CHerIDesCo--Sardegna_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Sardegna</Description>
+        <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_012_01.imdi</CorpusLink>
+      
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_025_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_026_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_027_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_028_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_029_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_030_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_031_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_032_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_033_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_034_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_035_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_036_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_037_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_038_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_039_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_040_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_041_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_042_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_043_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_044_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_045_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_046_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_047_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_048_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_049_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_050_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_051_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_052_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_053_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_054_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_055_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_056_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_057_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_058_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_059_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Sardegna_subcorpus/Sardegna_060_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

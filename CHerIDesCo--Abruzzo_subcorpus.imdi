@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-11-05"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Abruzzo_subcorpus</Name>
+                <Title>CHerIDesCo--Abruzzo_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Abruzzo</Description>
+        <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_001_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_004_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_005_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_008_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_009_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_012_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_016_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_018_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_018_03.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_020_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_022_02.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Abruzzo_subcorpus/Abruzzo_023_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

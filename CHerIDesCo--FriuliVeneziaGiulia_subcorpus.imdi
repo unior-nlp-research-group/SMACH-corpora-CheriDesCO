@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-12-18"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--FriuliVeneziaGiulia_subcorpus</Name>
+                <Title>CHerIDesCo--FriuliVeneziaGiulia_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Friuli-Venezia Giulia</Description>
+        <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--FriuliVeneziaGiulia_subcorpus/FriuliVeneziaGiulia_012_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

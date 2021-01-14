@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Toscana_subcorpus</Name>
+                <Title>CHerIDesCo--Toscana_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Toscana</Description>
+        <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_021_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_022_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_023_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_024_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_025_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_026_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_027_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_028_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_029_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_030_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_031_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_032_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_033_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_034_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_035_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_036_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_037_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_038_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_039_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_040_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_041_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_042_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_043_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_044_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_045_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_046_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_047_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_048_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_049_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_050_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_051_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_052_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_053_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_054_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_055_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_056_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_057_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_058_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_059_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_060_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_061_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_062_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_063_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_064_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_065_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_066_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_067_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_068_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_069_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_070_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_071_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Toscana_subcorpus/Toscana_072_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

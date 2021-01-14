@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2021-01-02"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>CHerIDesCo--Puglia_subcorpus</Name>
+                <Title>CHerIDesCo--Puglia_subcorpus</Title>
+                <Description LanguageId="" Link="">Subcorpus Regione Puglia</Description>
+        <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_001_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_002_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_003_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_004_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_005_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_006_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_007_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_008_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_009_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_010_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_011_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_012_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_013_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_014_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_015_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_016_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_017_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_018_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_019_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_020_01.imdi</CorpusLink>
+      <CorpusLink Name="">CHerIDesCo--Puglia_subcorpus/Puglia_021_01.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

@@ -1,0 +1,9 @@
+,text,upos,xpos,lemma,feats
+0,Complesso,NOUN,S,complesso,Gender=Masc|Number=Sing
+1,Monumentale,ADJ,A,Monumentale,Number=Sing
+2,di,ADP,E,di,
+3,San,PROPN,SP,San,
+4,Domenico,PROPN,SP,Domenico,
+5,",",PUNCT,FF,",",
+6,Lamezia,PROPN,SP,Lamezia,
+7,Terme,PROPN,SP,Terme,

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-11-04"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="SESSION"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+  <Session>
+      <Name>EmiliaRomagna_028_01</Name>
+      <Title>Complesso monumentale della Pilotta - Galleria nazionale di Parma</Title>
+      <Date>2020-12-17</Date>
+      <Description LanguageId="" Link="">Description</Description>
+      
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">Europe</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">Italy</Country>
+            <Region>Emilia-Romagna</Region>
+            <Address>Parma</Address>
+         </Location>
+         
+         <Keys>
+      </Keys>
+         
+         <Actors>
+      </Actors>
+      </MDGroup>
+      <Resources>
+         <WrittenResource>
+            <ResourceLink>http://musei.beniculturali.it/musei?mid=134&amp;nome=complesso-monumentale-della-pilotta-galleria-nazionale-di-parma</ResourceLink>
+            <MediaResourceLink/>
+            <Date>2020-12-17</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Primary Text</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>2.126 byte</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Formal/Content</Type>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Hand</Methodology>
+               <Level>100</Level>
+               <Description LanguageId="" Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Original</Derivation>
+            <CharacterEncoding>UTF-8</CharacterEncoding>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">false</Anonymized>
+            <Access>
+               <Availability/>
+               <Date>2020-12-17</Date>
+               <Owner>Complesso Monumentale della Pillotta</Owner>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email>cm-pil@beniculturali.it</Email>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="" Link=""/>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys/>
+         </WrittenResource>
+         
+      </Resources>
+      <References>
+    </References>
+  </Session>
+</METATRANSCRIPT>
